@@ -12,7 +12,7 @@
 	 
 0. It binds activity ids and subjects ids to the variables 
 
-0. It retrieves activity names from the activity_labels and binds them in the file
+0. It retrieves activity names from the activity_labels and adds them to the dataset
   
 0. It renames variables column with their real names
   
